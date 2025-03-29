@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-image-url-here.jpg" alt="Yuri Gonzaga" width="200" style="border-radius:50%;" />
+  <img src="2v2.jpg" alt="Yuri Gonzaga" width="200" style="border-radius:50%;" />
   
   # Hello, I'm Yuri Gonzaga 👋
   
