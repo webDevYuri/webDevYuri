@@ -39,8 +39,9 @@ I'm a **Full-stack Web Developer**. I'm 22 years old, living in Nueva Ecija, Phi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=WebDevYuri&theme=tokyonight" alt="Yuri's Contribution Graph" />
+  <img src="https://ghchart.rshah.org/WebDevYuri" alt="Yuri's Contribution Graph" />
 </div>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebDevYuri&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
 </div>
 
