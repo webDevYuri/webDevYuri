@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile.png" alt="Yuri Gonzaga" width="200" style="border-radius:50%;" />
+  <img src="profile.png" alt="Yuri Gonzaga" width="200" style="border-radius:50%; border: 3px solid #5340ff;" />
   
   # Yuri Gonzaga
   
@@ -74,28 +74,21 @@
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WebDevYuri&show_icons=true&count_private=true&hide=issues&theme=tokyonight&border_color=5340ff" alt="GitHub Stats" height="170" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebDevYuri&layout=compact&theme=tokyonight&border_color=5340ff" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebDevYuri&layout=compact&theme=tokyonight&border_color=5340ff" alt="Top Languages" style='height: 200px;' />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WebDevYuri&theme=tokyonight&border=5340ff" alt="GitHub Streak" style='height: 200px;' />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WebDevYuri&theme=tokyonight&border=5340ff" alt="GitHub Streak" />
-</div>
 
-<div align="center">
+<div align="center" style='margin-top: 20px'>
   <img src="https://ghchart.rshah.org/5340ff/WebDevYuri" alt="Yuri's Contribution Graph" width="100%" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5340ff&height=100&section=footer" width="100%" />
 
 <div align="center">
-  
   <h4>💬 Let's connect and build something amazing together!</h4>
 </div>
-
